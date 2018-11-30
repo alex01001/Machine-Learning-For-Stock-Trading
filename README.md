@@ -1,3 +1,3 @@
-# Machine-Learning-Capstone-Project
-Application of Machine Learning Algorithms to Intraday Stock Trading Based on Demand Zones.
+# Machine Learning for Intraday Stock Trading
 
+In this project, I research applicability of Machine Learning methods to intraday stock market trading. Specifically, I focus on evaluating so-called “Demand Zones” in terms of their potential profitability. I’ve built a system which tracks the S&P 500 stock data, detects the Demand Zones (let’s refer to this moment of time as T1), records the technical parameters, including the peak price (at time T2), and generates alerts when the price comes back to the demand zone (time T3). At the time T3, a trader (or a trading algorithm) has to make a decision whether they should buy the stock. The purpose of my research is to analyze the performance of Machine Learning algorithms in terms of their ability to correctly predict the winning trades. 
