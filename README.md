@@ -4,7 +4,7 @@ In this project, I research applicability of Machine Learning methods to intrada
 
 At the time _T3_, a trader (or a trading algorithm) has to make a decision whether they should buy the stock. The purpose of my research is to analyze the performance of Machine Learning algorithms in terms of their ability to correctly predict the winning trades. 
 
-See the intraday trading alerts in action here: **http://www.stocksbuyalerts.com/**
+See the intraday stock trading alerts in action here: **http://www.stocksbuyalerts.com/**
 
 
 **This is my capstone project for Udacity's Machine Learning Engineer Nanodegree.** 
